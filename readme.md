@@ -2,6 +2,7 @@
 
 A simple CSR generator.
 
-- Update csr.yml
-- rake generate
-- Check output directory for key and csr
+- `bundle`
+- Update `csr.yml`
+- `rake generate`
+- Check `output` directory for key and csr
