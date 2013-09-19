@@ -1,0 +1,21 @@
+# key
+key_size: 2048
+
+# domains
+domain: www.ritani.com
+alt_names:
+  - retailer.ritani.com 
+  - admin.ritani.com 
+  - diamondvendor.ritani.com 
+  - secure.ritani.com 
+  - ritani.com
+  
+# company
+organisation: Ritani, LLC 
+department: Technology
+city: White Plains 
+state: New York
+country: US
+
+# email
+email: simont@ritani.com
